@@ -1,0 +1,18 @@
+.card {
+    max-width: 300px;
+    background-color: black;
+    color: rgb(10, 230, 10);
+    padding-bottom: 5px;
+    border-radius: 15px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 30px 0;
+}
+
+.space {
+    color: rgb(237, 12, 203);
+}
